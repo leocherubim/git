@@ -11,4 +11,14 @@ git commit -m 'primeiro push'
 git push origin master
 ```
 
+Instrução para recuperar os dados presentes no repositório do Github
+
+```
+git pull https://github.com/leocherubim/git.git master
+
+ou
+
+git pull
+```
+
 
